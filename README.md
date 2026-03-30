@@ -19,5 +19,5 @@ A comprehensive Data Analysis project exploring the housing market in Melbourne,
 - There is a clear **negative correlation** between distance from the CBD and house prices; premium properties are heavily concentrated near the city center.
 
 ## 🚀 How to Run
-1. Install requirements: `pip install pandas seaborn matplotlib`
+1. Install requirements: `pip install pandas certifi seaborn matplotlib `
 2. Run the Jupyter Notebook. The script will automatically fetch the dataset, build the SQLite database, and generate the visualizations.
